@@ -1,0 +1,119 @@
+/* first section of the page */
+
+
+/* second section of the web page for the three divs  */
+
+  #col-bg-color{
+    background-color:  #F2F6FB;
+  }
+
+/* second 3 image grid  */
+ #course{
+  margin-left: 623px;
+ }
+
+ #img1{
+  width: 103%;
+ }
+
+ 
+ #img2{ 
+  width: 103%;
+  height: 135px;
+  }
+#img3{
+  margin-top: 15px;
+  height: 144px;
+  width: 103%;
+}
+ #course7{
+  margin-left: 175px;
+ }
+ #course4{
+  margin-left:193px;
+ }
+
+ .Course3{
+  margin-left: 245px;
+ }
+ #course5{
+  margin-left: 127px;
+ }
+ #course-3{
+  margin-left: 117px;
+ }
+
+
+
+
+/* section 4 */
+#img-section4{
+  width: 100%;
+}
+#par-section{
+  font-size: 24px;
+  
+}
+#size-of-head{
+  font-size: 50px;
+}
+
+#bg-image{
+width: 100%
+}
+
+#background-color{
+  background-color: #F0F4FA;;
+
+}
+
+
+
+ 
+/* section five */
+
+#size-of-head{
+  font-size: 48px;
+}
+
+
+#img-size{
+  width: 100%;
+}
+
+#icon-number-width{
+  width: 81%;
+}
+.line{
+  width: 68%;
+}
+
+/* section 6 */
+#color{
+  background-color: #4ED7A8;
+}
+
+/* section 7*/
+#center-button-arrows{
+  text-align: center;
+}
+
+/* section9 */
+
+#last-bg-color{
+  background-color: #B9ABA2;
+}
+ 
+#text-background{
+  background-color: #FFFFFF;
+}
+
+
+/* footors */
+
+#footer-background-color{
+  background-color: #FFFFFF;
+}
+#text-size{
+  font-size: 14px;
+}
